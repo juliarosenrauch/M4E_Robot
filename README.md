@@ -1,2 +1,2 @@
-# PNI_Robot
-Hardware abstraction for the Elegoo V3 robot
+# EDU_M4E_Robot_HAL
+Hardware Abstraction Layer for Elegoo V3 robot
